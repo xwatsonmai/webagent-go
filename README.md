@@ -6,6 +6,9 @@
 - 它可以替代传统的Web自动化程序，如爬虫、自动化测试等/It Can Replace Traditional Web Automation Programs, Such as Crawlers, Automated Testing, etc.
 - 它可以在不需要编写代码的情况下，完成大部分Web自动化任务/It Can Complete Most Web Automation Tasks Without Writing Code
 
+# 体验地址/ demo
+http://114.132.90.16/#/
+
 # 能力/Capabilities
 - 基于大模型的Web自动化/ Web Automation Based on Large Models
 - 支持Agent多轮自动化操作/Supports Agent Multi-Round Automated Operations
