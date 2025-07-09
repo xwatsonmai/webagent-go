@@ -2,7 +2,7 @@ package define
 
 import (
 	"context"
-	
+	"github.com/xwatsonmai/webagent-go/instruction"
 )
 
 type IPrompter interface {

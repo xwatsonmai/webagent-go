@@ -1,7 +1,7 @@
 # webagent-go
 使用大模型驱动的Web自动化程序/Using Large Model Driven Web Automation Programs
 
-# 项目初衷
+# 项目初衷 / Project Motivation
 - 构建一个基于大模型的，低使用门槛、高泛化性的Web自动化程序/Build a Large Model Based, Low Usage Threshold, Highly Generalized Web Automation Program
 - 它可以替代传统的Web自动化程序，如爬虫、自动化测试等/It Can Replace Traditional Web Automation Programs, Such as Crawlers, Automated Testing, etc.
 - 它可以在不需要编写代码的情况下，完成大部分Web自动化任务/It Can Complete Most Web Automation Tasks Without Writing Code
